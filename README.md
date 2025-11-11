@@ -27,3 +27,5 @@ This project demonstrates how small changes in app features can impact usability
 
 #Output:
 
+<img width="389" height="837" alt="Image" src="https://github.com/user-attachments/assets/cef67e3d-3db8-408a-b2dc-5b100130673e" />
+
